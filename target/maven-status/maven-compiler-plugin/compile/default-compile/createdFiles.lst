@@ -1,0 +1,5 @@
+org/example/bankingappspring/controller/AccountController.class
+org/example/bankingappspring/repo/AccountRepository.class
+org/example/bankingappspring/entity/Account.class
+org/example/bankingappspring/services/AccountService.class
+org/example/bankingappspring/BankingappspringApplication.class
