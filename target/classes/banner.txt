@@ -1,7 +1,6 @@
-**        ** ******   *******  **     **
-***      *** **    ** **     ** **     **
-****    **** **       **     ** **     **
-** **  ** ** **       **     ** **     **
-**  **  **  ** **      **   **   **   **
-**   ****   ** **       ** **     ** **
-**    **    ** ******    ***       ***
+
+BBBBB   AAAAA   N   N   K   K   AAAAA  ppppp  ppppp
+B    B  A    A  NN  N   K  K    A   P  p    p p    p
+BBBBB   AAAAA   N N N   K K     AAAAA  pppp   pppp
+B    B  A    A  N  NN   K  K    A   P  A      A
+BBBBB   A    A  N   N   K   K   A   P  A      A
